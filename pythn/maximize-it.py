@@ -56,4 +56,6 @@ Sample Input
 Sample Output
 
 206
+
+python3 maximize-it.py < inputs/maximize-it.txt | cat
 '''
